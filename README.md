@@ -61,6 +61,11 @@ Peace. Finally.
 
 ## 🚀 Quick Start
 
+
+### for windows you can easily install it through this https://github.com/Reak-ps/NEUTRON/releases/tag/v1.0.0
+there will be a config and an exe
+
+
 ### 1. Clone it
 ```bash
 git clone https://github.com/yourusername/neutron.git

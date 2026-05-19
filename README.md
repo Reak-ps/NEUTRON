@@ -9,6 +9,8 @@
 
 > A C++ file organizer that sorts your chaotic Downloads folder so you don't have to.
 
+# For your and my honor, please do not run this on any hard drives like directly on C/user or somthing, especially those containing games, as this will split the drive and all game files will be packed into separate folders.
+
 ---
 
 ## 🤔 What Is This?
